@@ -9,4 +9,6 @@ The virus can log off your device and your data. Any data saved you can run it, 
  3. It can damage personal data
  4. It can act like Malware, which it is
  5. It is an unused Behavior, like acting like malware
-# Run it, right click it, and click open.
+# How to Open
+1. Right-click on the icon
+2. Click on "Open"
